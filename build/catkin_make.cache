@@ -1,0 +1,2 @@
+lab_1
+-DCATKIN_DEVEL_PREFIX=/home/hussein/autonomos_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hussein/autonomos_ws/install -G Unix Makefiles

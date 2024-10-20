@@ -1,0 +1,8 @@
+prefix=/home/hussein/autonomos_ws/devel
+
+Name: Lab_2
+Description: Description of Lab_2
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
