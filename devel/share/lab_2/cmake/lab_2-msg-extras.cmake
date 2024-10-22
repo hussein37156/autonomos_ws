@@ -1,0 +1,2 @@
+set(lab_2_MESSAGE_FILES "/home/hussein/autonomos_ws/devel/share/lab_2/msg/actionAction.msg;/home/hussein/autonomos_ws/devel/share/lab_2/msg/actionActionGoal.msg;/home/hussein/autonomos_ws/devel/share/lab_2/msg/actionActionResult.msg;/home/hussein/autonomos_ws/devel/share/lab_2/msg/actionActionFeedback.msg;/home/hussein/autonomos_ws/devel/share/lab_2/msg/actionGoal.msg;/home/hussein/autonomos_ws/devel/share/lab_2/msg/actionResult.msg;/home/hussein/autonomos_ws/devel/share/lab_2/msg/actionFeedback.msg")
+set(lab_2_SERVICE_FILES "")
