@@ -6,7 +6,7 @@ import math
 
 def move(major=1, minor=1 , omega=1):
     pub = rospy.Publisher("turtle1/cmd_vel", Twist, queue_size=10)
-    F=20
+    F=500
     rate = rospy.Rate(F)  # 4 Hz
     counter=0
     while not rospy.is_shutdown():
